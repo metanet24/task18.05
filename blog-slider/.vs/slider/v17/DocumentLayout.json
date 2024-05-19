@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|c:\\users\\asus\\onedrive\\desktop\\slider\\slider\\slider\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|solutionrelative:slider\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|c:\\users\\asus\\onedrive\\desktop\\slider\\slider\\slider\\helpers\\extentions\\fileextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|solutionrelative:slider\\helpers\\extentions\\fileextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|c:\\users\\asus\\onedrive\\desktop\\slider\\slider\\slider\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|solutionrelative:slider\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|c:\\users\\asus\\onedrive\\desktop\\slider\\slider\\slider\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|solutionrelative:slider\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|c:\\users\\asus\\onedrive\\desktop\\slider\\slider\\slider\\viewmodels\\slider\\sliderdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|solutionrelative:slider\\viewmodels\\slider\\sliderdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|c:\\users\\asus\\onedrive\\desktop\\slider\\slider\\slider\\areas\\admin\\views\\slider\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|solutionrelative:slider\\areas\\admin\\views\\slider\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|c:\\users\\asus\\onedrive\\desktop\\slider\\slider\\slider\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|solutionrelative:slider\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileExtention.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Helpers\\Extentions\\FileExtention.cs",
+              "RelativeDocumentMoniker": "slider\\Helpers\\Extentions\\FileExtention.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Helpers\\Extentions\\FileExtention.cs",
+              "RelativeToolTip": "slider\\Helpers\\Extentions\\FileExtention.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:34:59.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "RelativeDocumentMoniker": "slider\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "RelativeToolTip": "slider\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T04:20:33.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "slider\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Models\\Slider.cs",
+              "RelativeToolTip": "slider\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:16:40.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SliderDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\ViewModels\\Slider\\SliderDetailVM.cs",
+              "RelativeDocumentMoniker": "slider\\ViewModels\\Slider\\SliderDetailVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\ViewModels\\Slider\\SliderDetailVM.cs",
+              "RelativeToolTip": "slider\\ViewModels\\Slider\\SliderDetailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:13:52.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "slider\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "slider\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:11:16.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "slider\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "slider\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwDUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:06:28.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "slider\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "slider\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAUwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:03:49.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
