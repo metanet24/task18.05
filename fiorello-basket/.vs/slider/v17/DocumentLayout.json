@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|c:\\users\\asus\\onedrive\\desktop\\slider\\slider\\slider\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|solutionrelative:slider\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|c:\\users\\asus\\onedrive\\desktop\\slider\\slider\\slider\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|solutionrelative:slider\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|c:\\users\\asus\\onedrive\\desktop\\slider\\slider\\slider\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|solutionrelative:slider\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|c:\\users\\asus\\onedrive\\desktop\\slider\\slider\\slider\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2973736-AEC4-4432-9D4C-70028A953EFB}|slider\\slider.csproj|solutionrelative:slider\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "slider\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "slider\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T19:47:25.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "slider\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "slider\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:37:56.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "slider\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "slider\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:06:36.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeaderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "slider\\ViewComponents\\HeaderViewComponent.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\slider\\slider\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeToolTip": "slider\\ViewComponents\\HeaderViewComponent.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:08:12.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
